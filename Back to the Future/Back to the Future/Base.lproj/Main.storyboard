@@ -68,16 +68,13 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ctZ-h7-XBk">
-                                <rect key="frame" x="112.5" y="395.5" width="150" height="29"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="150" id="1xY-5V-7pA"/>
-                                </constraints>
+                                <rect key="frame" x="156.5" y="395.5" width="62.5" height="29"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-BoldItalic" family="Helvetica Neue" pointSize="24"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.75264302804889494" green="0.61852495028914589" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.37617423466780209" green="1" blue="0.98990605092956585" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ctZ-h7-XBk" firstAttribute="centerX" secondItem="tsR-hK-woN" secondAttribute="centerX" id="LfE-XH-SFZ"/>
                             <constraint firstItem="mrR-Ph-XL7" firstAttribute="centerY" secondItem="tsR-hK-woN" secondAttribute="centerY" id="k40-2G-xON"/>
